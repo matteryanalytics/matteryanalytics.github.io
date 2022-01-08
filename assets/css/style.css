@@ -21,7 +21,7 @@
   --gray-dark: #343a40;
   --primary: #007bff;
   --secondary: #d0c2af;
-  --success: #2e937a;
+  --success: #80cee1;
   --info: #17a2b8;
   --warning: #f29431;
   --danger: #dc3545;
@@ -490,6 +490,8 @@ pre {
   flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px; }
+
+.top-buffer { margin-top:20px; }
 
 .no-gutters {
   margin-right: 0;
@@ -1847,8 +1849,8 @@ fieldset:disabled a.btn {
 
 .btn-success {
   color: #fff;
-  background-color: #2e937a;
-  border-color: #2e937a; }
+  background-color: #5f4dff;
+  border-color: #5f4dff; }
   .btn-success:hover {
     color: #fff;
     background-color: #257662;

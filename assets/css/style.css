@@ -7542,12 +7542,12 @@ a.text-dark:hover, a.text-dark:focus {
         color: #2e937a; }
 
 .edica-about-intro .intro-title {
-  color: #2e937a;
+  color: #5f4dff;
   font-size: 45px;
   font-weight: 700;
   line-height: 1.31; }
   .edica-about-intro .intro-title span {
-    background-color: rgba(76, 162, 141, 0.11); }
+    background-color: rgba(95, 77, 255, 0.11); }
 
 .edica-about-intro .intro-content {
   font-size: 22px;

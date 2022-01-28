@@ -269,6 +269,12 @@ legend {
 progress {
   vertical-align: baseline; }
 
+.img-responsive-team{
+  width: 100%;
+  margin: 0;
+  padding: 1em;
+}
+
 [type="number"]::-webkit-inner-spin-button,
 [type="number"]::-webkit-outer-spin-button {
   height: auto; }

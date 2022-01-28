@@ -7313,9 +7313,9 @@ a.text-dark:hover, a.text-dark:focus {
     border-radius: 50%;
     margin-right: 12px; }
 .img-responsive-team{
-  height:390px;
-  margin-top:10px;
-  overflow: hidden;
+  width: 100%;
+  margin: 0;
+  padding: 1em;
 }
 .footer-social-links a {
   display: inline-flex;
